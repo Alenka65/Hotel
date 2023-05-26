@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public enum VacationType {
+public enum VacationType {
+    BUSINESS, PLEASURE;
+
+
 }
